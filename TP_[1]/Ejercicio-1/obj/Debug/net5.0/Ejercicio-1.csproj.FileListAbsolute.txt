@@ -1,0 +1,16 @@
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.exe
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.deps.json
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.runtimeconfig.json
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.runtimeconfig.dev.json
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.dll
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\ref\Ejercicio-1.dll
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\bin\Debug\net5.0\Ejercicio-1.pdb
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.csproj.AssemblyReference.cache
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.AssemblyInfoInputs.cache
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.AssemblyInfo.cs
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.csproj.CoreCompileInputs.cache
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.dll
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\ref\Ejercicio-1.dll
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.pdb
+D:\c# proyectos\Maggiori.Gianni\Ejercicio-1\obj\Debug\net5.0\Ejercicio-1.genruntimeconfig.cache
