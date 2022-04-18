@@ -20,7 +20,6 @@ namespace MiCalculadora {
 			this.cmbOperador.Items.Add('+');
 			this.cmbOperador.Items.Add('*');
 			this.cmbOperador.Items.Add('/');
-			
 			Limpiar();
 		}
 		private void btnOperar_Click(object sender,EventArgs e) {
@@ -51,12 +50,22 @@ namespace MiCalculadora {
 		private void btnDecimalBinario_Click(object sender,EventArgs e) {
 			this.lblResultado.Text=Operando.DecimalBinario(this.lblResultado.Text);
 		}
+		/// <summary>
+		/// Metodo que limpia todos los campos
+		/// </summary>
 		private void Limpiar() {
 			this.txtNumero1.Text=null;
 			this.txtNumero2.Text=null;
 			this.lblResultado.Text=null;
 			this.cmbOperador.SelectedIndex=-1;
 		}
+		/// <summary>
+		/// Metodo que llama a la calculadora para operar con los numeros
+		/// </summary>
+		/// <param name="numeroUno">Primer numero</param>
+		/// <param name="numeroDos">Segundo numero</param>
+		/// <param name="Operador">El operador con el que se van a realizar operaciones matematicas</param>
+		/// <returns>Retorna el resultado</returns>
 		private static double Operar(string numeroUno, string numeroDos, string Operador) {
 			if(string.IsNullOrWhiteSpace(Operador)) {
 				Operador=" ";

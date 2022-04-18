@@ -55,6 +55,7 @@ namespace MiCalculadora {
 			// 
 			// txtNumero2
 			// 
+			this.txtNumero2.BackColor = System.Drawing.SystemColors.Window;
 			this.txtNumero2.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.txtNumero2.Location = new System.Drawing.Point(335, 141);
 			this.txtNumero2.Name = "txtNumero2";
@@ -73,12 +74,14 @@ namespace MiCalculadora {
 			// 
 			// lstOperaciones
 			// 
+			this.lstOperaciones.BackColor = System.Drawing.SystemColors.ButtonShadow;
+			this.lstOperaciones.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
 			this.lstOperaciones.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.lstOperaciones.FormattingEnabled = true;
 			this.lstOperaciones.ItemHeight = 25;
 			this.lstOperaciones.Location = new System.Drawing.Point(470, 9);
 			this.lstOperaciones.Name = "lstOperaciones";
-			this.lstOperaciones.Size = new System.Drawing.Size(351, 304);
+			this.lstOperaciones.Size = new System.Drawing.Size(351, 302);
 			this.lstOperaciones.TabIndex = 4;
 			this.lstOperaciones.TabStop = false;
 			// 
@@ -136,6 +139,7 @@ namespace MiCalculadora {
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.BackColor = System.Drawing.SystemColors.ActiveBorder;
 			this.ClientSize = new System.Drawing.Size(833, 322);
 			this.Controls.Add(this.btnOperar);
 			this.Controls.Add(this.btnBinarioDecimal);
