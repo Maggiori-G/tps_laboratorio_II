@@ -48,14 +48,40 @@ namespace Entidades {
 			}
 			return operandoValidado;
 		}
-
+		/// <summary>
+		/// Realiza la suma entre dos numeros dados
+		/// </summary>
+		/// <param name="numeroUno">Numero uno</param>
+		/// <param name="numeroDos">Numero dos</param>
+		/// <returns>Retorna el resultado</returns>
 		public static double operator +(Operando numeroUno, Operando numeroDos) {
 			return numeroUno.numero+numeroDos.numero;
-		}public static double operator -(Operando numeroUno, Operando numeroDos) {
+		}
+		/// <summary>
+		/// Realiza la resta entre dos numeros dados
+		/// </summary>
+		/// <param name="numeroUno">Numero uno</param>
+		/// <param name="numeroDos">Numero dos</param>
+		/// <returns>Retorna el resultado</returns>
+		public static double operator -(Operando numeroUno, Operando numeroDos) {
 			return numeroUno.numero-numeroDos.numero;
-		}public static double operator *(Operando numeroUno, Operando numeroDos) {
+		}
+		/// <summary>
+		/// Realiza la multiplicacion entre dos numeros dados
+		/// </summary>
+		/// <param name="numeroUno">Numero uno</param>
+		/// <param name="numeroDos">Numero dos</param>
+		/// <returns>Retorna el resultado</returns>
+		public static double operator *(Operando numeroUno, Operando numeroDos) {
 			return numeroUno.numero*numeroDos.numero;
-		}public static double operator /(Operando numeroUno, Operando numeroDos) {
+		}
+		/// <summary>
+		/// Realiza la division entre dos numeros dados siempre y cuando el dividendo no sea 0
+		/// </summary>
+		/// <param name="numeroUno">Numeor uno</param>
+		/// <param name="numeroDos">Numero dos</param>
+		/// <returns>Retorna el resultado</returns>
+		public static double operator /(Operando numeroUno, Operando numeroDos) {
 			if(numeroDos.numero==0) {
 				return double.MinValue;
 			}
