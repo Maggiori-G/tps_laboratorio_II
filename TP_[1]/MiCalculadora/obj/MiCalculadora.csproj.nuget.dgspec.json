@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c# proyectos\\Maggiori.Gianni\\MiCalculadora\\MiCalculadora.csproj": {}
+    "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\MiCalculadora\\MiCalculadora.csproj": {}
   },
   "projects": {
-    "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-        "outputPath": "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\c# proyectos\\Maggiori.Gianni\\MiCalculadora\\MiCalculadora.csproj": {
+    "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\MiCalculadora\\MiCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c# proyectos\\Maggiori.Gianni\\MiCalculadora\\MiCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\MiCalculadora\\MiCalculadora.csproj",
         "projectName": "MiCalculadora",
-        "projectPath": "D:\\c# proyectos\\Maggiori.Gianni\\MiCalculadora\\MiCalculadora.csproj",
+        "projectPath": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\MiCalculadora\\MiCalculadora.csproj",
         "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-        "outputPath": "D:\\c# proyectos\\Maggiori.Gianni\\MiCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\MiCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\c# proyectos\\Maggiori.Gianni\\Entidades\\Entidades.csproj"
+              "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\tanii\\Desktop\\Repo_TP\\tps_laboratorio_II\\TP_[1]\\Entidades\\Entidades.csproj"
               }
             }
           }
