@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "EntidadesTP3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EntidadesTP3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesTP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntidadesTP3/1.0.0": {
+      "type": "project",
+      "path": "../Maggiori.Gianni.2A.TP3/EntidadesTP3.csproj",
+      "msbuildProject": "../Maggiori.Gianni.2A.TP3/EntidadesTP3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "EntidadesTP3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tanii\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tanii\\source\\repos\\Maggiori.Gianni.2A.TP3\\MaggioriGianni-PuntoDeVenta\\MaggioriGianni-PuntoDeVenta.csproj",
+      "projectName": "MaggioriGianni-PuntoDeVenta",
+      "projectPath": "C:\\Users\\tanii\\source\\repos\\Maggiori.Gianni.2A.TP3\\MaggioriGianni-PuntoDeVenta\\MaggioriGianni-PuntoDeVenta.csproj",
+      "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tanii\\source\\repos\\Maggiori.Gianni.2A.TP3\\MaggioriGianni-PuntoDeVenta\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\tanii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\tanii\\source\\repos\\Maggiori.Gianni.2A.TP3\\Maggiori.Gianni.2A.TP3\\EntidadesTP3.csproj": {
+              "projectPath": "C:\\Users\\tanii\\source\\repos\\Maggiori.Gianni.2A.TP3\\Maggiori.Gianni.2A.TP3\\EntidadesTP3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

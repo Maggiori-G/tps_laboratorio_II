@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesTP3", "Maggiori.Gianni.2A.TP3\EntidadesTP3.csproj", "{FA235132-3288-46E6-A8F8-979F73CAFD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaggioriGianni-PuntoDeVenta", "MaggioriGianni-PuntoDeVenta\MaggioriGianni-PuntoDeVenta.csproj", "{6D038493-ED43-42D0-A2A6-DA4F7D61D669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA235132-3288-46E6-A8F8-979F73CAFD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA235132-3288-46E6-A8F8-979F73CAFD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA235132-3288-46E6-A8F8-979F73CAFD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA235132-3288-46E6-A8F8-979F73CAFD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D038493-ED43-42D0-A2A6-DA4F7D61D669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D038493-ED43-42D0-A2A6-DA4F7D61D669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D038493-ED43-42D0-A2A6-DA4F7D61D669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D038493-ED43-42D0-A2A6-DA4F7D61D669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D79C6BC-3025-4248-8556-257C3B5CA323}
+	EndGlobalSection
+EndGlobal
